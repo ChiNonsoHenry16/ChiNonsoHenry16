@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Henry Nwokoye! <br/><a href="https://github.com/joshmadakor1">Database Administrator</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">IT Infrastructure Support Analyst</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">Cybersecurity Analyst</a>, <a href="https://scholar.google.com/citations?user=FJGeeEAAAAAJ">Researcher (Cybersecurity, HCI, Machine Learning)</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
