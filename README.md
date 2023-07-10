@@ -26,8 +26,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📺 Certifications and Micro-credentials</h2>
-  - [Oracle Certified Associate](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=drive_link)
-  - [Oracle Certified Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Oracle Certified Associate](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
+  
+  - [Oracle Certified Professional](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
+    
   - [Machine Learning Software Foundations](https://certificate.bcdiploma.com/check/1D50F0673D21DD2DB316874E0614E9611EA824ECD929B5626F57B885BB11E8BFdU02NUZLV0VQdXErNDZZb1dsSW9Fa2IzR0hxLy9lQTVDTUZ6ZEFFTXpHemw1TzNL))
   - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
   - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
