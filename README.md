@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](Multigroup_e−SIjRjTj_Model_for_Malware_Propagation_in_WSN.ipynb)
-  - [Ransomeware and using Kali Linux](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
+  - [Ransomware Attack on VMware using Kali Linus](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
   - 
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
