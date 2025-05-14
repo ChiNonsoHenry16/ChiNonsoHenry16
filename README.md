@@ -9,7 +9,7 @@
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
-- <b> Data Science and Machine Learning Projects</b>
+- <b> Data Science and Machine Learning Projects </b>
   - [Feature Selection using K_best](Selecting_K_best_features_Pig_Weight.ipynb)
   
 - <b>Database Administration & Management Projects Projects</b>
