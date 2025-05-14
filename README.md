@@ -8,7 +8,7 @@
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
-- <b>Machine Learning Projects</b>
+- <b> Data Science and Machine Learning Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <b>Database Administration & Management Projects Projects</b>
