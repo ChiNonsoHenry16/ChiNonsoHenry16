@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
