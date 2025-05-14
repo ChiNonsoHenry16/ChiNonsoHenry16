@@ -19,7 +19,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b>Python</b>
-  - [UML Class Diagrams for Agent-Oriented Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [UML Class Diagrams for Agent-Oriented Programming)](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
   - 
 - <b>(.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
