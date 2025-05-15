@@ -6,9 +6,7 @@
   - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](Multigroup_e−SIjRjTj_Model_for_Malware_Propagation_in_WSN.ipynb)
   - [Ransomware Attack on VMware using Kali Linus](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
   - 
-- <b>IT Infrastructure Analyst Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-    
+
 - <b> Data Science and Machine Learning Projects </b>
   - [Feature Selection using K_best](Selecting_K_best_features_Pig_Weight.ipynb)
   - [Predictive Analytics: Exploration, Preprocessing, Regression, Quantitative Analysis and Visualization using Two Datasets](CRA_Exam_Data_Analysis_using_Two_Datasets.ipynb)
@@ -17,6 +15,12 @@
   - [Using Long Short Term Memory Recurrent Nueral Networks for Prediction of HIV Testing in Nigeria](LSTM_on_HIV_Testing_Data_from_Nigeria.ipynb)
   - [Weight Prediciton using Multilayer Perceptron](MLP_for_weight_prediction_for_First_Scientific_Reports_Paper.ipynb)
   - [Applying LSTMRNN to Malware Spread Simulator Dataset Designed Using NetLogo](Malware_Spread_Simulator_with_100_Nodes_+_LSTM.ipynb)
+ 
+- <b>App Development with Gradio|Flask and Explainability Techniques</b>
+  - [Online_Education_Assistant_With_Explainability Techniques (LIME & SHAP](Case_3_(7)_Online_Education_Assistant_With_Explainability Techniques.ipynb)
+
+- <b>IT Infrastructure Analyst Projects</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
