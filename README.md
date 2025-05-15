@@ -19,7 +19,7 @@
 - <b>App Development with Gradio|Flask and Explainability Techniques</b>
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
-- <b>IT Infrastructure Analyst Projects</b>
+- <b>Networking and Network Security using Packet Tracer</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Database Administration & Management Projects Projects</b>
