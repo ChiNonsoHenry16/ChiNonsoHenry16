@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](Multigroup_e−SIjRjTj_Model_for_Malware_Propagation_in_WSN.ipynb)
   - [Ransomware Attack on VMware using Kali Linus](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
+  - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](Multigroup_e−SIjRjTj_Model_for_Malware_Propagation_in_WSN.ipynb)
   - [Find Open Ports using a Target IP Address - Python on Pycharm IDE](https://github.com/ChiNonsoHenry16/FindOpenPortsUsingPython)
 
 - <b> Data Science and Machine Learning Projects </b>
