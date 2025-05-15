@@ -17,7 +17,7 @@
   - [Applying LSTMRNN to Malware Spread Simulator Dataset Designed Using NetLogo](Malware_Spread_Simulator_with_100_Nodes_+_LSTM.ipynb)
  
 - <b>App Development with Gradio|Flask and Explainability Techniques</b>
-  - [Educational Assistant with Explainability Techniques](Case_3_(7)_Online_Education_Assistant_With_Explainability Techniques.ipynb) 
+  - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
