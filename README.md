@@ -16,6 +16,7 @@
   - [Applying Multilayer Perceptron to the SEABIR Epidemic Model of Virus Propagation](SEABIR_Epidemic_Model_with_MLP_Regressor.ipynb)
   - [Using Long Short Term Memory Recurrent Nueral Networks for Prediction of HIV Testing in Nigeria](LSTM_on_HIV_Testing_Data_from_Nigeria.ipynb)
   - [Weight Prediciton using Multilayer Perceptron](MLP_for_weight_prediction_for_First_Scientific_Reports_Paper.ipynb)
+  - [Applying LSTMRNN to Malware Spread Simulator Dataset Designed Using NetLogo](Malware_Spread_Simulator_with_100_Nodes_+_LSTM.ipynb)
   
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
