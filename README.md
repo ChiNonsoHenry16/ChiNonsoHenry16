@@ -20,6 +20,7 @@
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
 - <b>Networking and Network Security using Cisco Packet Tracer</b>
+  - [Static Routing with VLANs, Switches, Routers and a Routing Table]()
   - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
 
     
