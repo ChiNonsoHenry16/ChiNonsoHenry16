@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chukwunonso Henry Nwokoye! <br/><a href="https://github.com/ChiNonsoHenry16">AI/Machine Learning Researcher, Database Administrator</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">ICybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">IT Infrastructure Support Analyst</a>, <a href="https://scholar.google.com/citations?user=FJGeeEAAAAAJ">Researcher (Cybersecurity, HCI, Machine Learning)</a></h1>
+<h1>Hi, I'm Chukwunonso Henry Nwokoye! <br/><a href="https://github.com/ChiNonsoHenry16">AI/Machine Learning Researcher, Database Administrator</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">ICybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/henry-chukwunonso-phd/">IT Infrastructure Support Analyst</a>, <a href="https://scholar.google.com/citations?user=FJGeeEAAAAAJ"> an Academic Researcher in the intersection of Network Security, Human Computer Interaction and Machine Learning)</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
