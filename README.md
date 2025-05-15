@@ -18,6 +18,7 @@
  
 - <b>App Development with Gradio|Flask and Explainability Techniques</b>
   - [OnlineEducation Assistant with Explainability Techniques](Case_3_(7)_Online_Education_Assistant_With_Explainability Techniques.ipynb)
+  - [Applying LSTMRNN to Malware Spread Simulator Dataset Designed Using NetLogo](Case_3_(7)_Online_Education_Assistant_With_Explainability Techniques.ipynb)
 
 - <b>IT Infrastructure Analyst Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
