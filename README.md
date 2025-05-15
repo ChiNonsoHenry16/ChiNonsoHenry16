@@ -43,5 +43,6 @@
   - [Architecting in AWS](https://drive.google.com/file/d/14rd-4F61WW-b7Z06bpYKxN3enacWpxNz/view?usp=sharing)
 
   - [AWS Cloud Practitioner](https://drive.google.com/file/d/1Y-67qbMECmCm_-A_Fn3Wa-hrT7FO3tQA/view?usp=sharing)
+    
   - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/ef631090-2937-42be-ab11-23ba9494a4dd/public_url)
   
