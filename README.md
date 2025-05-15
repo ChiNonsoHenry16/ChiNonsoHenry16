@@ -12,6 +12,7 @@
 - <b> Data Science and Machine Learning Projects </b>
   - [Feature Selection using K_best](Selecting_K_best_features_Pig_Weight.ipynb)
   - [K-fold Cross-validation of Ensemble Models](Kfold_Validation_of_Ensemble_Models.ipynb)
+  - [Applying Multilayer Perceptron to the SEABIR Epidemic Model of Virus Propagation](SEABIR_Epidemic_Model_with_MLP_Regressor.ipynb)
   
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -20,7 +21,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b>Python</b>
-  - [UML Class Diagrams for Agent-Oriented Programming)](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
+  - [UML Class Diagrams for Agent-Oriented Programming](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
   - 
 - <b>(.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
