@@ -10,7 +10,7 @@
 - <b> Data Science and Machine Learning Projects </b>
   - [Feature Selection using K_best](Selecting_K_best_features_Pig_Weight.ipynb)
   - [Predictive Analytics: Exploration, Preprocessing, Regression & Visualization using Two Datasets](CRA_Exam_Data_Analysis_using_Two_Datasets.ipynb)
-  - [K-fold Cross-validation of Ensemble Models](Kfold_Validation_of_Ensemble_Models.ipynb)
+  - [K-fold Cross-validation of Ensemble Models (Bagging, Voting & Stacking)](Kfold_Validation_of_Ensemble_Models.ipynb)
   - [Applying Multilayer Perceptron to the SEABIR Epidemic Model of Virus Propagation](SEABIR_Epidemic_Model_with_MLP_Regressor.ipynb)
   - [Using Long Short Term Memory Recurrent Nueral Networks for Prediction of HIV Testing in Nigeria](LSTM_on_HIV_Testing_Data_from_Nigeria.ipynb)
   - [Weight Prediciton using Multilayer Perceptron](MLP_for_weight_prediction_for_First_Scientific_Reports_Paper.ipynb)
