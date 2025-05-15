@@ -47,7 +47,7 @@
 
   - [AWS Cloud Practitioner](https://drive.google.com/file/d/1Y-67qbMECmCm_-A_Fn3Wa-hrT7FO3tQA/view?usp=sharing)
 
-  - [IBM Cybersecurity Fundamentals] (https://www.credly.com/badges/ff50325f-ea22-4d1a-9a7c-f0b1a20008fd/public_url)
+  - [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/ff50325f-ea22-4d1a-9a7c-f0b1a20008fd/public_url)
     
   - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/ef631090-2937-42be-ab11-23ba9494a4dd/public_url)
   
