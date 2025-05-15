@@ -30,12 +30,8 @@
     
 - <b>Python</b>
   - [UML Class Diagrams for Agent-Oriented Programming](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
-  - 
-- <b>(.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
+ 
+    
 <h2>📺 Certifications and Micro-credentials</h2>
 
   - [Oracle Certified Associate](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
