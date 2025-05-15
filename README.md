@@ -34,6 +34,8 @@
     
 <h2>📺 Certifications and Micro-credentials</h2>
 
+- [Verified International Academic Qualifications Issued by World Education Services](https://www.credly.com/badges/2b6a9fab-4a8d-4647-8761-bfc74d8f6ea7/public_url) 
+
   - [Oracle Certified Associate](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
 
   - [Oracle Certified Professional](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
