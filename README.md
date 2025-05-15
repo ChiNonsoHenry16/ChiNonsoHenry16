@@ -19,7 +19,7 @@
 - <b>App Development with Gradio|Flask and Explainability Techniques</b>
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
-- <b>Networking and Network Security using Packet Tracer</b>
+- <b>Networking and Network Security using Cisco Packet Tracer</b>
   - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
 
     
