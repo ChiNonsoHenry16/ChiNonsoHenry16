@@ -20,8 +20,9 @@
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
 - <b>Networking and Network Security using Packet Tracer</b>
-  - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP))
-  
+  - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
+
+    
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
