@@ -13,6 +13,7 @@
   - [Feature Selection using K_best](Selecting_K_best_features_Pig_Weight.ipynb)
   - [K-fold Cross-validation of Ensemble Models](Kfold_Validation_of_Ensemble_Models.ipynb)
   - [Applying Multilayer Perceptron to the SEABIR Epidemic Model of Virus Propagation](SEABIR_Epidemic_Model_with_MLP_Regressor.ipynb)
+  - [Using Long Short Term Memory Recurrent Nueral Networks for Prediction of HIV Testing in Nigeria](LSTM_on_HIV_Testing_Data_from_Nigeria.ipynb)
   
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
