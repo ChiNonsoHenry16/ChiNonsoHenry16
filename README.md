@@ -20,7 +20,7 @@
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
 
 - <b>Networking and Network Security using Packet Tracer</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Database Administration & Management Projects Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
