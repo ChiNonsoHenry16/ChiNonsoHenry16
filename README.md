@@ -21,6 +21,7 @@
 
 - <b>Networking and Network Security using Cisco Packet Tracer</b>
   - [Static Routing with VLANs, Switches, Routers and a Routing Table](https://github.com/ChiNonsoHenry16/Static-Routing)
+  - [Dynamimc Routing using Open Shortest Path First](https://github.com/ChiNonsoHenry16/Dynamic-RoutingOSPF)
   - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
 
     
