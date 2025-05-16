@@ -37,7 +37,7 @@
     
 - <b>Python</b>
   - [UML Class Diagrams for Agent-Oriented Programming](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
-  - [Gantt Chart Creation using Python](Gantt_Chart_for_Ultrafund_Project.ipynb)
+  - [Gantt Chart Creation for Project Management using Python](Gantt_Chart_for_Ultrafund_Project.ipynb)
  
     
 <h2>📺 Certifications and Micro-credentials</h2>
