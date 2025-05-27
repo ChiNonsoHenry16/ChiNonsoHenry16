@@ -30,7 +30,7 @@
   - [Dynamimc Routing using Open Shortest Path First Protocol](https://github.com/ChiNonsoHenry16/Dynamic-RoutingOSPF)
   - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
     
-- <b>Database Administration & Management Projects Projects</b>
+- <b>Database Administration & Management Projects </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
