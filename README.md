@@ -12,7 +12,7 @@
   - [Weight Prediciton using Multilayer Perceptron](MLP_for_weight_prediction_for_First_Scientific_Reports_Paper.ipynb)
   - [Applying LSTMRNN to Malware Spread Simulator Dataset Designed Using NetLogo](Malware_Spread_Simulator_with_100_Nodes_+_LSTM.ipynb)
  
-- <b>Computer Vision and Natural Language Processing</b>
+- <b>Computer Vision (CV) and Natural Language Processing (NLP)</b>
   - [CV: Early Detection of Yam Diseases using Convolutional Neural Networks](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
   - [NLP: Extended Tech Gadget Customer Support Chatbot.ipynb](Extended_Tech_Gadget_Customer_Support_Chatbot.ipynb)
  
