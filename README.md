@@ -46,20 +46,12 @@
 <h2>📺 Certifications and Micro-credentials</h2>
 
    - [Verified International Academic Qualifications Issued by World Education Services](https://www.credly.com/badges/2b6a9fab-4a8d-4647-8761-bfc74d8f6ea7/public_url) 
-
    - [Oracle Certified Associate](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
-
    - [Oracle Certified Professional](https://drive.google.com/file/d/10u0UoRHdLPvDvcDZ5tF5bcAALn9hyPkT/view?usp=sharing)
-    
    - [Machine Learning Software Foundations](https://certificate.bcdiploma.com/check/1D50F0673D21DD2DB316874E0614E9611EA824ECD929B5626F57B885BB11E8BFdU02NUZLV0VQdXErNDZZb1dsSW9Fa2IzR0hxLy9lQTVDTUZ6ZEFFTXpHemw1TzNL)
-    
    - [Architecting in AWS](https://drive.google.com/file/d/14rd-4F61WW-b7Z06bpYKxN3enacWpxNz/view?usp=sharing)
-
    - [AWS Cloud Practitioner](https://drive.google.com/file/d/1Y-67qbMECmCm_-A_Fn3Wa-hrT7FO3tQA/view?usp=sharing)
-
    - [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/ff50325f-ea22-4d1a-9a7c-f0b1a20008fd/public_url)
-
    - [Google Foundations of Cybersecurity](https://coursera.org/share/8e21812ecc7cf24f0e59154334ce112b)
-    
    - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/ef631090-2937-42be-ab11-23ba9494a4dd/public_url)
   
