@@ -20,7 +20,7 @@
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
     
 - <b>Cybersecurity, Network Security and Endpoint Security </b>
-  - [Port Scanning using NMap](https://github.com/ChiNonsoHenry16/PortScanning-NMap)
+  - [Port Scanning using Network Mapper (NMap)](https://github.com/ChiNonsoHenry16/PortScanning-NMap)
   - [Anomaly Detection using Isolation Forest on the NSL-KDD Dataset](https://github.com/ChiNonsoHenry16/anomaly-detection-isoforest)
   - [Ransomware Attack on VMware using Kali Linus](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
   - [Multigroup e−SIjRjTj Model for Malware Propagation in Wireless Sensor Networks](Multigroup_e−SIjRjTj_Model_for_Malware_Propagation_in_WSN.ipynb)
