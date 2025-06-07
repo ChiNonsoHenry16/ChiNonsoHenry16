@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b> Data Science and Machine Learning Projects </b>
+- <b> Data Science and Machine Learning </b>
   - [Extract → Transform → Load (ETL) Workflows for Data Sources and Targets](https://github.com/ChiNonsoHenry16/ETL_collections)
   - [Preprocessing: Feature Selection using SelectKBest](Selecting_K_best_features_Pig_Weight.ipynb)
   - [Predictive Analytics: Exploration, Preprocessing, Regression & Visualization using Two Datasets](CRA_Exam_Data_Analysis_using_Two_Datasets.ipynb)
