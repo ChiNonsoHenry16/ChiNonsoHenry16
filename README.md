@@ -17,7 +17,7 @@
   - [NLP: Sentiment Analysis using Meta Stocks]()
   - [NLP: Extended Tech Gadget Customer Support Chatbot](Extended_Tech_Gadget_Customer_Support_Chatbot.ipynb)
  
-- <b>App Development with Gradio|Flask and Explainability Techniques</b>
+- <b>MLOps, App Development with Gradio|Flask and Explainability Techniques</b>
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
     
 - <b>Cybersecurity, Network Security and Endpoint Security </b>
