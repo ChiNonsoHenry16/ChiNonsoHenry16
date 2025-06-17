@@ -14,6 +14,7 @@
  
 - <b>Computer Vision (CV) and Natural Language Processing (NLP)</b>
   - [CV: Early Detection of Yam Diseases using VGG 16, VGG 19, DenseNet & ResNet50](https://github.com/ChiNonsoHenry16/VGG16-VGG-19-DenseNet-ResNet50-for-Yam-Diseases-Detection/tree/main)
+  - [Simulating Mechanical Damage using OpenCV](OpenCV_Simulating_Mechanical_Damage.ipynb)
   - [NLP: Sentiment Analysis using Meta Stocks](META_Stock_Sentiment_Analysis.ipynb)
   - [NLP: Extended Tech Gadget Customer Support Chatbot](Extended_Tech_Gadget_Customer_Support_Chatbot.ipynb)
  
