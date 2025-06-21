@@ -36,8 +36,6 @@
   - [Dynamic Routing using Routing Information Protocol]()
   - [Dynamimc Routing using Open Shortest Path First Protocol](https://github.com/ChiNonsoHenry16/Dynamic-RoutingOSPF)
   - [Dynamimc Routing using Enhanced Interior Gateway Routing Protocol](https://github.com/ChiNonsoHenry16/Dynamic-Routing-using-EIGRP)
- 
-- - <b>Diagrams and Charts using Python</b>
     
 - <b>Diagrams and Charts using Python</b>
   - [UML Class Diagrams for Agent-Oriented Programming](UML_Diagrams_in_Agent_oriented_Programming.ipynb)
