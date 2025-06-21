@@ -15,7 +15,7 @@
  
 - <b>Computer Vision (CV) and Natural Language Processing (NLP)</b>
   - [CV: Early Detection of Yam Diseases using VGG 16, VGG 19, DenseNet & ResNet50](https://github.com/ChiNonsoHenry16/VGG16-VGG-19-DenseNet-ResNet50-for-Yam-Diseases-Detection/tree/main)
-  - [CV: Leaf Spot Image Generation using DCGAN and Wasserstein GAN (WGAN)](https://github.com/ChiNonsoHenry16/Leaf-spot-generation-using-GANs/blob/main/Leaf_Spot_Image_Generation_using_DCGANs.ipynb) 
+  - [CV: Leaf Spot Image Generation using DCGAN and Wasserstein GAN (WGAN)](https://github.com/ChiNonsoHenry16/Leaf-spot-generation-using-GANs) 
   - [CV: Simulating Mechanical Damage using OpenCV](OpenCV_Simulating_Mechanical_Damage.ipynb)
   - [NLP: Sentiment Analysis using Meta Stocks](META_Stock_Sentiment_Analysis.ipynb)
   - [NLP: Extended Tech Gadget Customer Support Chatbot](Extended_Tech_Gadget_Customer_Support_Chatbot.ipynb)
