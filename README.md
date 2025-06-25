@@ -25,6 +25,7 @@
     
 - <b>Cybersecurity, Network Security and Endpoint Security </b>
   - [Port Scanning using Network Mapper (NMap)](https://github.com/ChiNonsoHenry16/PortScanning-NMap)
+  - [Azure Sentinel and SIEM Implementation for Windows Security Events](https://medium.com/@chinonsonwokoye/azure-sentinel-and-siem-implementation-for-windows-security-events-3af0147f3471)
   - [Anomaly Detection using Isolation Forest on the NSL-KDD Dataset](https://github.com/ChiNonsoHenry16/anomaly-detection-isoforest)
   - [Anomaly Detection using One Class SVM, Autoencoder, PCA and t-SNE](https://github.com/ChiNonsoHenry16/AnomalyDetection-1-class-SVM-Autoencoder-PCA-t-SNE)
   - [Ransomware Attack on VMware using Kali Linus](https://github.com/ChiNonsoHenry16/RansomwareAttackVMware2017)
