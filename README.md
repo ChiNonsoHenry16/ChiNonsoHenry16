@@ -24,7 +24,7 @@
   - [Educational Assistant with Explainability Techniques](Case_3_%287%29_Online_Education_Assistant_With_Explainability%20Techniques.ipynb)
  
 - <b> AI, Machine Learning and Cybersecurity</b>
-  - MLSecOps: A Modern Guide to Machine Learning Security Operations
+  - [MLSecOps: A Modern Guide to Machine Learning Security Operations](https://github.com/ChiNonsoHenry16/MLSecOps-overview)
     
 - <b>Cybersecurity, Network Security and Endpoint Security </b>
   - [Port Scanning using Network Mapper (NMap)](https://github.com/ChiNonsoHenry16/PortScanning-NMap)
