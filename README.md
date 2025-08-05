@@ -59,5 +59,4 @@
    - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/ef631090-2937-42be-ab11-23ba9494a4dd/public_url)
    - [Certificate in University Teaching: 2024-2025 (Instructor Stream)](https://ca.badgr.com/public/assertions/e4T60K_eQV2ZKVHWX5fA0Q?identity__email=henrychukwunonso.nwokoye%40ontariotechu.ca)
    - [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/cfaa95da-ce7e-44e6-9c39-305be9258d09/public_url)
-   - 
-  
+     
